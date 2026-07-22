@@ -132,4 +132,4 @@ function openOrSenior(data) {
     }
   
     return result;
-  }
+  };
